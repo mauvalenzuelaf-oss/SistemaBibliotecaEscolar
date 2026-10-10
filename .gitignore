@@ -1,0 +1,12 @@
+# Configuración local con credenciales
+config/database.properties
+
+# IntelliJ IDEA
+.idea/
+out/
+
+# Archivos compilados
+*.class
+
+# Logs
+*.log
