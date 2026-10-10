@@ -1398,6 +1398,6 @@ Todos los hilos finalicen correctamente
 
 ---
 
-**Repositorio GitHub:** Repositorio GitHub: https://github.com/mauvalenzuelaf-oss/SistemaBibliotecaEscolar
+**Repositorio GitHub:** https://github.com/mauvalenzuelaf-oss/SistemaBibliotecaEscolar
 
 **Fecha de Entrega**: 11/10/2026
