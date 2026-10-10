@@ -87,7 +87,7 @@ El sistema permite:
 📁 SistemaBibliotecaEscolar/
 │
 ├── 📁 config/
-│   ├── database.properties
+│   ├── database.properties                (archivo local, ignorado por Git)
 │   └── database.properties.example
 │
 ├── 📁 database/
